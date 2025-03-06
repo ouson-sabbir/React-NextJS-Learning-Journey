@@ -1,5 +1,6 @@
 # React-NextJS-Learning-Journey
 📂 react-nextjs-learning-journey/
+
 ├── 📁 week-1-react-fundamentals/
 │ ├── 📂 day-1-jsx-components/
 │ ├── 📂 day-2-props-state/
@@ -10,6 +11,7 @@
 │ ├── 📂 day-7-practice/
 │ ├── 📝 notes.md (daily notes & key learnings)
 │ ├── 📄 README.md (overview of this week’s learning)
+│
 │
 ├── 📁 week-2-react-hooks-context-api/
 │ ├── 📂 day-8-useState-useEffect/
