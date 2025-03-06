@@ -52,7 +52,7 @@ I will be working on multiple **mini-projects** to reinforce my learning:
 ## 🛠 How to Use This Repository
 1. Clone this repository:
    ```sh
-   git clone https://github.com/your-username/react-nextjs-learning-journey.git
+   git clone https://github.com/ouson-sabbir/react-nextjs-learning-journey.git
    ```
 2. Navigate into the folder:
    ```sh
@@ -62,9 +62,9 @@ I will be working on multiple **mini-projects** to reinforce my learning:
 
 ## 🌍 Live Documentation (GitHub Pages)
 This repository is documented using **GitHub Pages**. You can access the live documentation at:  
-🔗 [https://your-username.github.io/react-nextjs-learning-journey/](https://your-username.github.io/react-nextjs-learning-journey/)
+🔗 [https://ouson-sabbir.github.io/react-nextjs-learning-journey/](https://ouson-sabbir.github.io/react-nextjs-learning-journey/)
 
 ## 🔥 Stay Motivated!
 I am committed to learning **React + Next.js** over the next 2 months. Feel free to follow along and contribute! 😊
 
-📧 **Contact Me**: [Your Email or GitHub Profile]
+📧 **Contact Me**: ousonsabbir4@gmail.com
